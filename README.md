@@ -16,7 +16,7 @@
 
 
 # <h3>About Me:</h3>
-Hi, I'm John—welcome to my GitHub profile! I'm an experienced DevOps Engineer who designs, automates, and manages reliable infrastructure across Kubernetes and Azure environments.  
+Hi, I'm John! Welcome to my GitHub profile! I'm an experienced DevOps Engineer who designs, automates, and manages reliable infrastructure across Kubernetes and Azure environments.  
 Here you'll find DevOps-related projects I've built or am currently working on, including my homelab experiments.  
 Feel free to explore the repos and check out the README files to see what I’ve been up to!<br /><br />
 
@@ -42,7 +42,6 @@ Check it out below 👇
 # <h3>📊 GitHub Stats</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jddemonteverde&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&hide_border=false" height="150" alt="GitHub stats graph" />
   <img src="https://streak-stats.demolab.com?user=jddemonteverde&locale=en&mode=daily&theme=gotham&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D" height="150" alt="GitHub contribution streak graph" />
 </div>
 
