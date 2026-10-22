@@ -20,22 +20,17 @@ Hi, I'm John! Welcome to my GitHub profile! I'm an experienced DevOps Engineer w
 Here you'll find DevOps-related projects I've built or am currently working on, including my homelab experiments.  
 Feel free to explore the repos and check out the README files to see what I’ve been up to!<br /><br />
 
-> **Account note:** [`jddemonteverde`](https://github.com/jddemonteverde) is my current GitHub account. [`blanktorious`](https://github.com/blanktorious) is my previous account, where some of the projects linked below are still hosted.
-
 Since I’m still building my personal site in my homelab, I’ve created a temporary one where I share projects and blogs.  
 Check it out below 👇
 
-[🌐 My Personal Website](https://jddemonteverde.com)  
-[✍️ My Medium Profile](https://jddemonteverde.medium.com)
+[🌐 My Personal Website](https://jddemonteverde.com)
 
 # <h3>🚀 Projects</h3>
 <div align="center">
 
 | Project | Description |
 |--------|-------------|
-| [Homelab](https://github.com/blanktorious/homelab) | A self-hosted lab where I test automation, Kubernetes, and infrastructure tools. |
-| [Laboratory](https://github.com/blanktorious/laboratory) | A repository where I compile all the files and projects that I worked on. |
-| [My Static Website](https://github.com/blanktorious/my-tech-website) | This repo is for my static website that I migrated to Hugo. |
+| [Homelab](https://github.com/jddemonteverde/homelab33) | A self-hosted lab where I test automation, Kubernetes, and infrastructure tools. |
 
 </div>
 
